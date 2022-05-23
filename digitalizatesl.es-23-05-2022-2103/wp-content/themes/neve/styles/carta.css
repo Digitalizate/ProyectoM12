@@ -1,0 +1,34 @@
+/* Carta */
+#main_carta {
+	background-image: url("http://www.digitalizatesl.es.mialias.net/wp-content/themes/neve/assets/img/carta/fondo_carta.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.fondo_carta_informacion {
+	align-items: center;
+	background-image: url("http://www.digitalizatesl.es.mialias.net/wp-content/themes/neve/assets/img/carta/fondo_carta_informacion.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-top: 22px;
+}
+.oferta {
+	color: red;
+}
+
+/* Modal con la informacion de la carta */
+#modal_informacion {
+	display: none;
+	max-width: 700px;
+	min-height: 500px;
+	position: relative;
+	right: 0;
+	left: 0;
+	background-color: #812d0e;
+	margin: 0 auto;
+	padding: 25px 20px;
+}
+#modal_informacion #modal_btn_carta_cerrar:hover {
+	color: black;
+}

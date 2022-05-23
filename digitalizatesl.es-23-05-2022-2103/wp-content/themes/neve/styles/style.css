@@ -1,0 +1,143 @@
+/* Página principal */ 
+.wp-block-cover__image-background {
+    min-height: 82vh;
+}
+div.wp-block-cover {
+    min-height: 82vh !important;
+}
+
+/* Nav movil */
+#btn_abrir_menu {
+    padding: 10px 26px; 
+}
+#boton_nav_movil_registro a {
+    background-color: #AC8039;
+    padding: 20px 15px;
+}
+#boton_nav_movil_login a {
+    background-color: #BD4803;
+    padding: 20px 25px;
+}
+#boton_nav_movil_cuenta {
+    background-color: #BD4803;
+    padding: 20px 15px;
+}
+#boton_nav_movil_desconectar {
+    background-color: #812d0e;
+    padding: 20px 10px;
+}
+#boton_nav_movil_registro a, #boton_nav_movil_login a, #boton_nav_movil_cuenta,  #boton_nav_movil_desconectar {
+    color: white;
+    border-radius: 4px;
+}
+#form_nav_movil {
+    display: flex;
+    justify-content: space-between;
+}
+#fondo_menu_movil {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    z-index: 1;
+    margin: 0 auto;
+}
+#btn_cerrar_menu {
+    max-height: 80px;
+}
+
+/* Div con "Log out" y "Mi cuenta" del header */
+#info {
+    display: none;
+    position: absolute;
+    right: 38px;
+    background-color: #772E05;
+    width: 150px;
+    z-index: 1;
+}
+#form_nav input {
+    background-color: transparent;
+    color: white;
+    font-weight: normal;
+}
+#form_nav input:hover {
+    text-decoration: underline;
+}
+
+.link_login {
+    color: #00a8ff;
+    text-decoration: underline;
+}
+.link_login:hover {
+    color: yellow;
+}
+
+.boton_nav {
+    padding: 10px 15px;
+    border-radius: 4px;
+    background-color: #AC8039;
+}
+a.boton_nav:nth-child(2) {
+    background-color: #BD4803;
+}
+.boton_nav:hover {
+    opacity: 1;
+    text-decoration: underline;
+}
+nav ul li a {
+    color: #FDDC88;
+}
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+/* Mi cuenta */
+#main_cuenta {
+	background-image: url("http://www.digitalizatesl.es.mialias.net/wp-content/themes/neve/assets/img/fondos/fondo_cuenta.jpg");
+}
+#cambiar_nombre_submit, #cambiar_apellido_submit, #cambiar_telefono_submit, #cambiar_correo_submit, #cambiar_passowrd_submit {
+    width: 360px;
+}
+
+/* Registro */
+#main_registro {
+	background-image: url("http://www.digitalizatesl.es.mialias.net/wp-content/themes/neve/assets/img/fondos/fondo_registro.webp");
+}
+
+/* Login */
+#main_login {
+    background-image: url("http://www.digitalizatesl.es.mialias.net/wp-content/themes/neve/assets/img/fondos/fondo_login.webp");
+    min-height: 82vh;
+}
+
+/* Contacto */
+#main_contacto {
+	background-image: url("http://www.digitalizatesl.es.mialias.net/wp-content/themes/neve/assets/img/fondos/fondo_contacto.jpg");
+}
+
+/* Nosotros */
+#main_nosotros {
+    background-image: url("http://www.digitalizatesl.es.mialias.net/wp-content/themes/neve/assets/img/fondos/foto_empresa.jpg");
+}
+
+/* Reservas */
+#main_restaurante {
+    background-image: url("http://www.digitalizatesl.es.mialias.net/wp-content/themes/neve/assets/img/fondos/fondo_reserva.jpg");
+}
+
+/* Votaciones */
+#main_votaciones {
+    background-image: url("http://www.digitalizatesl.es.mialias.net/wp-content/themes/neve/assets/img/fondos/fondo_votaciones.jpg");
+}
+
+/* Otros */
+div.wrap {
+    background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+form input[type=submit]:hover {
+    background-color: #772E05 !important;
+    color: white !important;
+}
