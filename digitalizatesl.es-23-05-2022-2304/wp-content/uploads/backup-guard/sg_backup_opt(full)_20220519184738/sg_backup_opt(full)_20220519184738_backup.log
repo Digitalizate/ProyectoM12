@@ -1,0 +1,112 @@
+Date: 2022-05-19 18:47:00 Europe/Madrid
+Reloads: ON
+User mode: Free
+BackupGuard version: 1.6.8.6
+Supported archive version: 5
+Database prefix: wp_
+Site URL: http://www.digitalizatesl.es.mialias.net
+Home URL: http://www.digitalizatesl.es.mialias.net
+Uploads path: /usr/home/digitalizatesl.es/web/wp-content/uploads
+Site installation: standard
+OS: Linux
+Server: Apache
+User agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:100.0) Gecko/20100101 Firefox/100.0
+PHP version: 7.4.26
+MySQL version: 5.5.5
+Int size: 8
+Int lib: bcmath
+Memory limit: 128M
+Max execution time: 80
+Disk free space: 143.3GB
+CURL available: Yes
+Openssl version: OpenSSL 1.1.0l  10 Sep 2019
+CURL version: 7.52.1 / SSL: OpenSSL/1.0.2u / libz: 1.2.8
+Email notifications: OFF
+FTP passive mode: OFF
+Exclude paths: 
+Tables to exclude: 
+Number of rows to backup: 10000
+AJAX request frequency: 2000
+Environment: Wordpress 5.9
+Backup mode: Manual
+Backup type: files,database
+
+2022-05-19 18:47:38: Start backup
+2022-05-19 18:47:38: Reload method set to ajax
+2022-05-19 18:47:38: ------- Reload Service -------
+2022-05-19 18:47:42: Start backup database
+2022-05-19 18:47:42: Total tables to backup: 35
+2022-05-19 18:47:42: Total rows to backup: 3298
+2022-05-19 18:47:42: Start backup table: wp_options
+2022-05-19 18:47:42: End backup table: wp_options
+2022-05-19 18:47:42: Start backup table: wp_postmeta
+2022-05-19 18:47:42: End backup table: wp_postmeta
+2022-05-19 18:47:42: Start backup table: wp_nf3_objects
+2022-05-19 18:47:42: End backup table: wp_nf3_objects
+2022-05-19 18:47:42: Start backup table: wp_nf3_object_meta
+2022-05-19 18:47:42: End backup table: wp_nf3_object_meta
+2022-05-19 18:47:42: Start backup table: wp_posts
+2022-05-19 18:47:42: End backup table: wp_posts
+2022-05-19 18:47:42: Start backup table: wp_wpdatatables
+2022-05-19 18:47:42: End backup table: wp_wpdatatables
+2022-05-19 18:47:42: Start backup table: wp_wpdatatables_rows
+2022-05-19 18:47:42: End backup table: wp_wpdatatables_rows
+2022-05-19 18:47:42: Start backup table: wp_nf3_relationships
+2022-05-19 18:47:42: End backup table: wp_nf3_relationships
+2022-05-19 18:47:42: Start backup table: wp_usermeta
+2022-05-19 18:47:42: End backup table: wp_usermeta
+2022-05-19 18:47:42: Start backup table: wp_nf3_chunks
+2022-05-19 18:47:42: End backup table: wp_nf3_chunks
+2022-05-19 18:47:42: Start backup table: wp_term_taxonomy
+2022-05-19 18:47:42: End backup table: wp_term_taxonomy
+2022-05-19 18:47:42: Start backup table: wp_terms
+2022-05-19 18:47:42: End backup table: wp_terms
+2022-05-19 18:47:42: Start backup table: wp_term_relationships
+2022-05-19 18:47:42: End backup table: wp_term_relationships
+2022-05-19 18:47:42: Start backup table: wp_users
+2022-05-19 18:47:42: End backup table: wp_users
+2022-05-19 18:47:42: Start backup table: wp_e_events
+2022-05-19 18:47:42: End backup table: wp_e_events
+2022-05-19 18:47:42: Start backup table: wp_nf3_upgrades
+2022-05-19 18:47:42: End backup table: wp_nf3_upgrades
+2022-05-19 18:47:42: Start backup table: wp_aiowps_global_meta
+2022-05-19 18:47:42: End backup table: wp_aiowps_global_meta
+2022-05-19 18:47:42: Start backup table: wp_nf3_action_meta
+2022-05-19 18:47:42: End backup table: wp_nf3_action_meta
+2022-05-19 18:47:42: Start backup table: wp_nf3_actions
+2022-05-19 18:47:42: End backup table: wp_nf3_actions
+2022-05-19 18:47:42: Start backup table: wp_links
+2022-05-19 18:47:42: End backup table: wp_links
+2022-05-19 18:47:42: Start backup table: wp_wpdatacharts
+2022-05-19 18:47:42: End backup table: wp_wpdatacharts
+2022-05-19 18:47:42: Start backup table: wp_aiowps_failed_logins
+2022-05-19 18:47:42: End backup table: wp_aiowps_failed_logins
+2022-05-19 18:47:42: Start backup table: wp_wpdatatables_columns
+2022-05-19 18:47:42: End backup table: wp_wpdatatables_columns
+2022-05-19 18:47:42: Start backup table: wp_nf3_forms
+2022-05-19 18:47:42: End backup table: wp_nf3_forms
+2022-05-19 18:47:42: Start backup table: wp_aiowps_login_lockdown
+2022-05-19 18:47:42: End backup table: wp_aiowps_login_lockdown
+2022-05-19 18:47:42: Start backup table: wp_aiowps_events
+2022-05-19 18:47:42: End backup table: wp_aiowps_events
+2022-05-19 18:47:42: Start backup table: wp_aiowps_login_activity
+2022-05-19 18:47:42: End backup table: wp_aiowps_login_activity
+2022-05-19 18:47:42: Start backup table: wp_termmeta
+2022-05-19 18:47:42: End backup table: wp_termmeta
+2022-05-19 18:47:42: Start backup table: wp_nf3_form_meta
+2022-05-19 18:47:42: End backup table: wp_nf3_form_meta
+2022-05-19 18:47:42: Start backup table: wp_nf3_field_meta
+2022-05-19 18:47:42: End backup table: wp_nf3_field_meta
+2022-05-19 18:47:42: Start backup table: wp_aiowps_debug_log
+2022-05-19 18:47:42: End backup table: wp_aiowps_debug_log
+2022-05-19 18:47:42: Start backup table: wp_comments
+2022-05-19 18:47:42: End backup table: wp_comments
+2022-05-19 18:47:42: Start backup table: wp_commentmeta
+2022-05-19 18:47:42: End backup table: wp_commentmeta
+2022-05-19 18:47:42: Start backup table: wp_aiowps_permanent_block
+2022-05-19 18:47:42: End backup table: wp_aiowps_permanent_block
+2022-05-19 18:47:42: Start backup table: wp_nf3_fields
+2022-05-19 18:47:42: End backup table: wp_nf3_fields
+2022-05-19 18:47:42: End backup database
+2022-05-19 18:47:42: Backup database total duration: 0 seconds
+2022-05-19 18:47:42: ------- Reload Service -------

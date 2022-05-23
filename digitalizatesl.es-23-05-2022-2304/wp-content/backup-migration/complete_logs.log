@@ -1,0 +1,446 @@
+[2022-05-19 17:07:08] [LOG] El plugin ha sido activado
+[2022-05-19 17:07:11] [ERROR] Se ha apagado
+[2022-05-19 17:07:11] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => /usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php
+    [line] => 271
+)
+
+[2022-05-19 17:07:11] [ERROR] Ha habido un error antes del cierre de la solicitud (pero no se ha registrado en el registro de copia de seguridad/restauración)
+[2022-05-19 17:07:11] [ERROR] Mensaje de error: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-05-19 17:07:11] [ERROR] Archivo/línea del error:/usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php|271
+[2022-05-19 17:07:12] [ERROR] Se ha apagado
+[2022-05-19 17:07:12] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => /usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php
+    [line] => 271
+)
+
+[2022-05-19 17:07:12] [ERROR] Ha habido un error antes del cierre de la solicitud (pero no se ha registrado en el registro de copia de seguridad/restauración)
+[2022-05-19 17:07:12] [ERROR] Mensaje de error: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-05-19 17:07:12] [ERROR] Archivo/línea del error:/usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php|271
+[2022-05-19 17:07:12] [ERROR] Se ha apagado
+[2022-05-19 17:07:12] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => /usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php
+    [line] => 271
+)
+
+[2022-05-19 17:07:12] [ERROR] Ha habido un error antes del cierre de la solicitud (pero no se ha registrado en el registro de copia de seguridad/restauración)
+[2022-05-19 17:07:12] [ERROR] Mensaje de error: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-05-19 17:07:12] [ERROR] Archivo/línea del error:/usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php|271
+[2022-05-19 17:07:12] [ERROR] Se ha apagado
+[2022-05-19 17:07:12] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => /usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php
+    [line] => 271
+)
+
+[2022-05-19 17:07:12] [ERROR] Ha habido un error antes del cierre de la solicitud (pero no se ha registrado en el registro de copia de seguridad/restauración)
+[2022-05-19 17:07:12] [ERROR] Mensaje de error: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-05-19 17:07:12] [ERROR] Archivo/línea del error:/usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php|271
+[2022-05-19 17:07:12] [ERROR] Se ha apagado
+[2022-05-19 17:07:12] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => /usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php
+    [line] => 271
+)
+
+[2022-05-19 17:07:12] [ERROR] Ha habido un error antes del cierre de la solicitud (pero no se ha registrado en el registro de copia de seguridad/restauración)
+[2022-05-19 17:07:12] [ERROR] Mensaje de error: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-05-19 17:07:12] [ERROR] Archivo/línea del error:/usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php|271
+[2022-05-19 17:07:13] [ERROR] Se ha apagado
+[2022-05-19 17:07:13] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => /usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php
+    [line] => 271
+)
+
+[2022-05-19 17:07:13] [ERROR] Ha habido un error antes del cierre de la solicitud (pero no se ha registrado en el registro de copia de seguridad/restauración)
+[2022-05-19 17:07:13] [ERROR] Mensaje de error: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-05-19 17:07:13] [ERROR] Archivo/línea del error:/usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php|271
+[2022-05-19 17:07:13] [ERROR] Se ha apagado
+[2022-05-19 17:07:13] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => /usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php
+    [line] => 271
+)
+
+[2022-05-19 17:07:13] [ERROR] Ha habido un error antes del cierre de la solicitud (pero no se ha registrado en el registro de copia de seguridad/restauración)
+[2022-05-19 17:07:13] [ERROR] Mensaje de error: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-05-19 17:07:13] [ERROR] Archivo/línea del error:/usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php|271
+[2022-05-19 17:07:13] [ERROR] Se ha apagado
+[2022-05-19 17:07:13] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => /usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php
+    [line] => 271
+)
+
+[2022-05-19 17:07:13] [ERROR] Ha habido un error antes del cierre de la solicitud (pero no se ha registrado en el registro de copia de seguridad/restauración)
+[2022-05-19 17:07:13] [ERROR] Mensaje de error: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-05-19 17:07:13] [ERROR] Archivo/línea del error:/usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php|271
+[2022-05-19 17:07:13] [ERROR] Se ha apagado
+[2022-05-19 17:07:13] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => /usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php
+    [line] => 271
+)
+
+[2022-05-19 17:07:13] [ERROR] Ha habido un error antes del cierre de la solicitud (pero no se ha registrado en el registro de copia de seguridad/restauración)
+[2022-05-19 17:07:13] [ERROR] Mensaje de error: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-05-19 17:07:13] [ERROR] Archivo/línea del error:/usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php|271
+[2022-05-19 17:07:15] [ERROR] Se ha apagado
+[2022-05-19 17:07:15] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => /usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php
+    [line] => 271
+)
+
+[2022-05-19 17:07:15] [ERROR] Ha habido un error antes del cierre de la solicitud (pero no se ha registrado en el registro de copia de seguridad/restauración)
+[2022-05-19 17:07:15] [ERROR] Mensaje de error: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-05-19 17:07:15] [ERROR] Archivo/línea del error:/usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php|271
+[2022-05-19 17:07:17] [ERROR] Se ha apagado
+[2022-05-19 17:07:17] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => /usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php
+    [line] => 271
+)
+
+[2022-05-19 17:07:17] [ERROR] Ha habido un error antes del cierre de la solicitud (pero no se ha registrado en el registro de copia de seguridad/restauración)
+[2022-05-19 17:07:17] [ERROR] Mensaje de error: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-05-19 17:07:17] [ERROR] Archivo/línea del error:/usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php|271
+[2022-05-19 17:07:18] [ERROR] Se ha apagado
+[2022-05-19 17:07:18] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => /usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php
+    [line] => 271
+)
+
+[2022-05-19 17:07:18] [ERROR] Ha habido un error antes del cierre de la solicitud (pero no se ha registrado en el registro de copia de seguridad/restauración)
+[2022-05-19 17:07:18] [ERROR] Mensaje de error: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-05-19 17:07:18] [ERROR] Archivo/línea del error:/usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php|271
+[2022-05-19 17:07:22] [ERROR] Se ha apagado
+[2022-05-19 17:07:22] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => /usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php
+    [line] => 271
+)
+
+[2022-05-19 17:07:22] [ERROR] Ha habido un error antes del cierre de la solicitud (pero no se ha registrado en el registro de copia de seguridad/restauración)
+[2022-05-19 17:07:22] [ERROR] Mensaje de error: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-05-19 17:07:22] [ERROR] Archivo/línea del error:/usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php|271
+[2022-05-19 17:07:25] [ERROR] Se ha apagado
+[2022-05-19 17:07:25] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => /usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php
+    [line] => 271
+)
+
+[2022-05-19 17:07:25] [ERROR] Ha habido un error antes del cierre de la solicitud (pero no se ha registrado en el registro de copia de seguridad/restauración)
+[2022-05-19 17:07:25] [ERROR] Mensaje de error: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-05-19 17:07:25] [ERROR] Archivo/línea del error:/usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php|271
+[2022-05-19 17:07:28] [ERROR] Se ha apagado
+[2022-05-19 17:07:28] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => /usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php
+    [line] => 271
+)
+
+[2022-05-19 17:07:28] [ERROR] Ha habido un error antes del cierre de la solicitud (pero no se ha registrado en el registro de copia de seguridad/restauración)
+[2022-05-19 17:07:28] [ERROR] Mensaje de error: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-05-19 17:07:28] [ERROR] Archivo/línea del error:/usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php|271
+[2022-05-19 17:07:33] [ERROR] Se ha apagado
+[2022-05-19 17:07:33] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => /usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php
+    [line] => 271
+)
+
+[2022-05-19 17:07:33] [ERROR] Ha habido un error antes del cierre de la solicitud (pero no se ha registrado en el registro de copia de seguridad/restauración)
+[2022-05-19 17:07:33] [ERROR] Mensaje de error: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-05-19 17:07:33] [ERROR] Archivo/línea del error:/usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php|271
+[2022-05-19 17:07:38] [ERROR] Se ha apagado
+[2022-05-19 17:07:38] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => /usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php
+    [line] => 271
+)
+
+[2022-05-19 17:07:38] [ERROR] Ha habido un error antes del cierre de la solicitud (pero no se ha registrado en el registro de copia de seguridad/restauración)
+[2022-05-19 17:07:38] [ERROR] Mensaje de error: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-05-19 17:07:38] [ERROR] Archivo/línea del error:/usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php|271
+[2022-05-19 17:07:43] [ERROR] Se ha apagado
+[2022-05-19 17:07:43] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => /usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php
+    [line] => 271
+)
+
+[2022-05-19 17:07:43] [ERROR] Ha habido un error antes del cierre de la solicitud (pero no se ha registrado en el registro de copia de seguridad/restauración)
+[2022-05-19 17:07:43] [ERROR] Mensaje de error: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-05-19 17:07:43] [ERROR] Archivo/línea del error:/usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php|271
+[2022-05-19 17:07:49] [ERROR] Se ha apagado
+[2022-05-19 17:07:49] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => /usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php
+    [line] => 271
+)
+
+[2022-05-19 17:07:49] [ERROR] Ha habido un error antes del cierre de la solicitud (pero no se ha registrado en el registro de copia de seguridad/restauración)
+[2022-05-19 17:07:49] [ERROR] Mensaje de error: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-05-19 17:07:49] [ERROR] Archivo/línea del error:/usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php|271
+[2022-05-19 17:07:52] [ERROR] Se ha apagado
+[2022-05-19 17:07:52] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => /usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php
+    [line] => 271
+)
+
+[2022-05-19 17:07:52] [ERROR] Ha habido un error antes del cierre de la solicitud (pero no se ha registrado en el registro de copia de seguridad/restauración)
+[2022-05-19 17:07:52] [ERROR] Mensaje de error: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-05-19 17:07:52] [ERROR] Archivo/línea del error:/usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php|271
+[2022-05-19 17:07:54] [ERROR] Se ha apagado
+[2022-05-19 17:07:54] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => /usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php
+    [line] => 271
+)
+
+[2022-05-19 17:07:54] [ERROR] Ha habido un error antes del cierre de la solicitud (pero no se ha registrado en el registro de copia de seguridad/restauración)
+[2022-05-19 17:07:54] [ERROR] Mensaje de error: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-05-19 17:07:54] [ERROR] Archivo/línea del error:/usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php|271
+[2022-05-19 17:07:59] [ERROR] Se ha apagado
+[2022-05-19 17:07:59] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => /usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php
+    [line] => 271
+)
+
+[2022-05-19 17:07:59] [ERROR] Ha habido un error antes del cierre de la solicitud (pero no se ha registrado en el registro de copia de seguridad/restauración)
+[2022-05-19 17:07:59] [ERROR] Mensaje de error: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-05-19 17:07:59] [ERROR] Archivo/línea del error:/usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php|271
+[2022-05-19 17:08:05] [ERROR] Se ha apagado
+[2022-05-19 17:08:05] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => /usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php
+    [line] => 271
+)
+
+[2022-05-19 17:08:05] [ERROR] Ha habido un error antes del cierre de la solicitud (pero no se ha registrado en el registro de copia de seguridad/restauración)
+[2022-05-19 17:08:05] [ERROR] Mensaje de error: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-05-19 17:08:05] [ERROR] Archivo/línea del error:/usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php|271
+[2022-05-19 17:08:10] [ERROR] Se ha apagado
+[2022-05-19 17:08:10] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => /usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php
+    [line] => 271
+)
+
+[2022-05-19 17:08:10] [ERROR] Ha habido un error antes del cierre de la solicitud (pero no se ha registrado en el registro de copia de seguridad/restauración)
+[2022-05-19 17:08:10] [ERROR] Mensaje de error: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-05-19 17:08:10] [ERROR] Archivo/línea del error:/usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php|271
+[2022-05-19 17:08:15] [ERROR] Se ha apagado
+[2022-05-19 17:08:15] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => /usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php
+    [line] => 271
+)
+
+[2022-05-19 17:08:15] [ERROR] Ha habido un error antes del cierre de la solicitud (pero no se ha registrado en el registro de copia de seguridad/restauración)
+[2022-05-19 17:08:15] [ERROR] Mensaje de error: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-05-19 17:08:15] [ERROR] Archivo/línea del error:/usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php|271
+[2022-05-19 17:08:21] [ERROR] Se ha apagado
+[2022-05-19 17:08:21] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => /usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php
+    [line] => 271
+)
+
+[2022-05-19 17:08:21] [ERROR] Ha habido un error antes del cierre de la solicitud (pero no se ha registrado en el registro de copia de seguridad/restauración)
+[2022-05-19 17:08:21] [ERROR] Mensaje de error: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-05-19 17:08:21] [ERROR] Archivo/línea del error:/usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php|271
+[2022-05-19 17:08:26] [ERROR] Se ha apagado
+[2022-05-19 17:08:26] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => /usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php
+    [line] => 271
+)
+
+[2022-05-19 17:08:26] [ERROR] Ha habido un error antes del cierre de la solicitud (pero no se ha registrado en el registro de copia de seguridad/restauración)
+[2022-05-19 17:08:26] [ERROR] Mensaje de error: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-05-19 17:08:26] [ERROR] Archivo/línea del error:/usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php|271
+[2022-05-19 17:08:31] [ERROR] Se ha apagado
+[2022-05-19 17:08:31] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => /usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php
+    [line] => 271
+)
+
+[2022-05-19 17:08:31] [ERROR] Ha habido un error antes del cierre de la solicitud (pero no se ha registrado en el registro de copia de seguridad/restauración)
+[2022-05-19 17:08:31] [ERROR] Mensaje de error: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-05-19 17:08:31] [ERROR] Archivo/línea del error:/usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php|271
+[2022-05-19 17:08:36] [ERROR] Se ha apagado
+[2022-05-19 17:08:36] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => /usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php
+    [line] => 271
+)
+
+[2022-05-19 17:08:36] [ERROR] Ha habido un error antes del cierre de la solicitud (pero no se ha registrado en el registro de copia de seguridad/restauración)
+[2022-05-19 17:08:36] [ERROR] Mensaje de error: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-05-19 17:08:36] [ERROR] Archivo/línea del error:/usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php|271
+[2022-05-19 17:08:46] [ERROR] Se ha apagado
+[2022-05-19 17:08:46] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => /usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php
+    [line] => 271
+)
+
+[2022-05-19 17:08:46] [ERROR] Ha habido un error antes del cierre de la solicitud (pero no se ha registrado en el registro de copia de seguridad/restauración)
+[2022-05-19 17:08:46] [ERROR] Mensaje de error: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-05-19 17:08:46] [ERROR] Archivo/línea del error:/usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php|271
+[2022-05-19 17:08:46] [ERROR] Se ha apagado
+[2022-05-19 17:08:46] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => /usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php
+    [line] => 271
+)
+
+[2022-05-19 17:08:46] [ERROR] Ha habido un error antes del cierre de la solicitud (pero no se ha registrado en el registro de copia de seguridad/restauración)
+[2022-05-19 17:08:46] [ERROR] Mensaje de error: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-05-19 17:08:46] [ERROR] Archivo/línea del error:/usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php|271
+[2022-05-19 17:08:47] [ERROR] Se ha apagado
+[2022-05-19 17:08:47] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => /usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php
+    [line] => 271
+)
+
+[2022-05-19 17:08:47] [ERROR] Ha habido un error antes del cierre de la solicitud (pero no se ha registrado en el registro de copia de seguridad/restauración)
+[2022-05-19 17:08:47] [ERROR] Mensaje de error: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-05-19 17:08:47] [ERROR] Archivo/línea del error:/usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php|271
+[2022-05-19 17:08:47] [ERROR] Se ha apagado
+[2022-05-19 17:08:47] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => /usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php
+    [line] => 271
+)
+
+[2022-05-19 17:08:47] [ERROR] Ha habido un error antes del cierre de la solicitud (pero no se ha registrado en el registro de copia de seguridad/restauración)
+[2022-05-19 17:08:47] [ERROR] Mensaje de error: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-05-19 17:08:47] [ERROR] Archivo/línea del error:/usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php|271
+[2022-05-19 17:08:47] [ERROR] Se ha apagado
+[2022-05-19 17:08:47] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => /usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php
+    [line] => 271
+)
+
+[2022-05-19 17:08:47] [ERROR] Ha habido un error antes del cierre de la solicitud (pero no se ha registrado en el registro de copia de seguridad/restauración)
+[2022-05-19 17:08:47] [ERROR] Mensaje de error: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-05-19 17:08:47] [ERROR] Archivo/línea del error:/usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php|271
+[2022-05-19 17:08:47] [ERROR] Se ha apagado
+[2022-05-19 17:08:47] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => /usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php
+    [line] => 271
+)
+
+[2022-05-19 17:08:47] [ERROR] Ha habido un error antes del cierre de la solicitud (pero no se ha registrado en el registro de copia de seguridad/restauración)
+[2022-05-19 17:08:47] [ERROR] Mensaje de error: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-05-19 17:08:47] [ERROR] Archivo/línea del error:/usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php|271
+[2022-05-19 17:08:47] [ERROR] Se ha apagado
+[2022-05-19 17:08:47] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => /usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php
+    [line] => 271
+)
+
+[2022-05-19 17:08:47] [ERROR] Ha habido un error antes del cierre de la solicitud (pero no se ha registrado en el registro de copia de seguridad/restauración)
+[2022-05-19 17:08:47] [ERROR] Mensaje de error: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-05-19 17:08:47] [ERROR] Archivo/línea del error:/usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php|271
+[2022-05-19 17:08:48] [ERROR] Se ha apagado
+[2022-05-19 17:08:48] [ERROR] Array
+(
+    [type] => 2
+    [message] => ini_set(): A session is active. You cannot change the session module's ini settings at this time
+    [file] => /usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php
+    [line] => 271
+)
+
+[2022-05-19 17:08:48] [ERROR] Ha habido un error antes del cierre de la solicitud (pero no se ha registrado en el registro de copia de seguridad/restauración)
+[2022-05-19 17:08:48] [ERROR] Mensaje de error: ini_set(): A session is active. You cannot change the session module's ini settings at this time
+[2022-05-19 17:08:48] [ERROR] Archivo/línea del error:/usr/home/digitalizatesl.es/web/wp-content/plugins/backup-backup/includes/initializer.php|271
+[2022-05-19 17:08:51] [LOG] El plugin ha sido desactivado
